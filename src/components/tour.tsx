@@ -19,10 +19,10 @@ function Tour() {
           </div>
           <div className='col image-col'>
             <div className='image-gallery'>
-            <img src='./img3.png' alt=''></img>
-            <img src='./img4.png' alt=''></img>
-            <img src='./img5.png' alt=''></img>
-            <img src='./img6.png' alt=''></img>
+            <img src='./img3.png' alt=''/> 
+            <img src='./img4.png' alt=''/>
+            <img src='./img5.png' alt=''/>
+            <img src='./img6.png' alt=''/>
 
             </div>
           </div>
